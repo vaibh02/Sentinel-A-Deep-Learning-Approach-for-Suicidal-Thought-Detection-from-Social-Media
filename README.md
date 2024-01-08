@@ -2,7 +2,7 @@
  
 <!-- # Sentinel: A Deep Learning Approach for Suicidal Thought Detection from Social Media -->
 
-![Sentinel Logo](sentinel_logo.png)
+![Sentinel Logo](image.png)
 
 ## Overview
 
